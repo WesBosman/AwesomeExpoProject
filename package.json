@@ -9,6 +9,10 @@
     "web": "expo start --web"
   },
   "dependencies": {
+    "@instawork/xmldom": "0.0.3",
+    "lodash": "4.17.21",
+    "tiny-emitter": "2.1.0",
+    "url-parse": "1.5.10",
     "@babel/preset-env": "^7.22.20",
     "@react-native-community/datetimepicker": "7.2.0",
     "@react-native-picker/picker": "2.4.10",
